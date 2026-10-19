@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
             <head><title>Meu Espaço Web</title></head>
             <body>
                 <h1>Bem-vindo ao Meu Espaço Web!</h1>
-                <p>Minha primeira aplicação Node.js.</p>
+                <p>Projeto atualizadooo.</p>
                 <a href="/sobre">Sobre</a> |
                 <a href="/contato">Contato</a>
             </body>
